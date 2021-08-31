@@ -1,5 +1,5 @@
 # GetHub
-An app that fetches users data from GitHub API and display it to the user
+An app that fetches users data from GitHub API and display it to the user using MVVM Design Architecture and RxSwift
 
 :warning:  **For the app work as expected**:
 
