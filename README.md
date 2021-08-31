@@ -11,5 +11,5 @@ Settings -> Developer Settings -> Personal access tokens -> Generate new token
 
 request.addValue("Bearer YOUR_TOKEN_GOES_HERE", forHTTPHeaderField: "Authorization")
 
-![alt text](https://imgur.com/ip8O5RM)
+![alt text](https://i.imgur.com/ip8O5RM.png)
 
