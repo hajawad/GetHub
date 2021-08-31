@@ -1,7 +1,7 @@
 # GetHub
 An app that fetches users data from GitHub API and display it to the user
 
-For the app work as expected:
+:warning:  **For the app work as expected**:
 
 1. Generate a new token from GitHub website by going to:
 
